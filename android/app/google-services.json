@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331497666224",
+    "firebase_url": "https://worldofmusic-de4bc.firebaseio.com",
+    "project_id": "worldofmusic-de4bc",
+    "storage_bucket": "worldofmusic-de4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331497666224:android:8b267eca71b32649ee2d75",
+        "android_client_info": {
+          "package_name": "com.example.WorldOfMusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331497666224-n6a3qcuketji34sbevf0bg3rh5ckcvck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.WorldOfMusic",
+            "certificate_hash": "03bed8e4b350c439fa67e1021127bcccf3313749"
+          }
+        },
+        {
+          "client_id": "331497666224-1i9bp2utkhtup8cctjvme1i7i39a13v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoM3bAeefn7fu15fXUn6gDO9OPqG6KjQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331497666224-1i9bp2utkhtup8cctjvme1i7i39a13v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
